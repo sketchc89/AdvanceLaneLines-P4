@@ -171,7 +171,7 @@ Radius of curvature and line from center were calculated. In the event that the 
 ![Radius of curvature and car position][roc_pos]
 
 # Video
-The following video is the result of the pipeline on project_video.mp4.
+The [linked video](./example_vid.mp4)is the result of the pipeline on project_video.mp4. Challenge videos are also included though they are not successful, primarily because the perspective transform of the lane lines is hard coded from the project video.
 
 # Improvements
 Three areas for improvement are:
